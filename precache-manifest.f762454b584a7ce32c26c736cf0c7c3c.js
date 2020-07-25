@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56aba06381d34b9ecc9df81fd5a728ce",
+    "revision": "c8a978c47013a775101738d269a5bfcb",
     "url": "/welcome-to-hell/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/welcome-to-hell/static/css/2.ea709e95.chunk.css"
   },
   {
-    "revision": "6fc0298f4d5b0c18a983",
-    "url": "/welcome-to-hell/static/css/main.f755dc96.chunk.css"
+    "revision": "df4bb9deebfca16094b9",
+    "url": "/welcome-to-hell/static/css/main.29d658da.chunk.css"
   },
   {
     "revision": "0c8ad4c4b0fd860aa399",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/welcome-to-hell/static/js/2.56356fdf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6fc0298f4d5b0c18a983",
-    "url": "/welcome-to-hell/static/js/main.c694c9ce.chunk.js"
+    "revision": "df4bb9deebfca16094b9",
+    "url": "/welcome-to-hell/static/js/main.fa6a2761.chunk.js"
   },
   {
     "revision": "c86826211708adf0a749",
