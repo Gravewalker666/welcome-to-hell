@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/welcome-to-hell/precache-manifest.aefeffd7a62efa4e3ab8cb48d95f45cd.js"
+  "/welcome-to-hell/precache-manifest.778ef5b36fc488a1e448912e00dcee1e.js"
 );
 
 self.addEventListener('message', (event) => {
