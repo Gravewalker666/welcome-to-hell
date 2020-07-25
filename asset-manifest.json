@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/welcome-to-hell/static/css/main.02e6cb29.chunk.css",
+    "main.js": "/welcome-to-hell/static/js/main.74b8a73e.chunk.js",
+    "main.js.map": "/welcome-to-hell/static/js/main.74b8a73e.chunk.js.map",
+    "runtime-main.js": "/welcome-to-hell/static/js/runtime-main.264452c7.js",
+    "runtime-main.js.map": "/welcome-to-hell/static/js/runtime-main.264452c7.js.map",
+    "static/css/2.79a50bcc.chunk.css": "/welcome-to-hell/static/css/2.79a50bcc.chunk.css",
+    "static/js/2.b0f6bb3f.chunk.js": "/welcome-to-hell/static/js/2.b0f6bb3f.chunk.js",
+    "static/js/2.b0f6bb3f.chunk.js.map": "/welcome-to-hell/static/js/2.b0f6bb3f.chunk.js.map",
+    "index.html": "/welcome-to-hell/index.html",
+    "precache-manifest.aefeffd7a62efa4e3ab8cb48d95f45cd.js": "/welcome-to-hell/precache-manifest.aefeffd7a62efa4e3ab8cb48d95f45cd.js",
+    "service-worker.js": "/welcome-to-hell/service-worker.js",
+    "static/css/2.79a50bcc.chunk.css.map": "/welcome-to-hell/static/css/2.79a50bcc.chunk.css.map",
+    "static/css/main.02e6cb29.chunk.css.map": "/welcome-to-hell/static/css/main.02e6cb29.chunk.css.map",
+    "static/js/2.b0f6bb3f.chunk.js.LICENSE.txt": "/welcome-to-hell/static/js/2.b0f6bb3f.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/welcome-to-hell/static/media/blob.04faead7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.264452c7.js",
+    "static/css/2.79a50bcc.chunk.css",
+    "static/js/2.b0f6bb3f.chunk.js",
+    "static/css/main.02e6cb29.chunk.css",
+    "static/js/main.74b8a73e.chunk.js"
+  ]
+}
